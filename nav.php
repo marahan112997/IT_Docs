@@ -2,7 +2,7 @@
 
 <nav class="navbar navbar-expand navbar bg static-top" style="background-color:#1a8fcb;">
 
-      <a class="navbar-brand mr-1" href="index.php"><img src="logo.png" height="35" width="35">  <b style="color:#ffffff;font-family:helvetica;">IT Docs</b></a>
+      <a class="navbar-brand mr-1" href="index.php"><img src="logo.png" height="35" width="35">  <b style="color:#ffffff;font-family:helvetica;">IT Documents</b></a>
 
       <button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
         <i class="fas fa-bars"></i>
